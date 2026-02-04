@@ -1,0 +1,19 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Subhams-Air:web devlopment udemy subhamkumar$ cd Story
+bash: cd: Story: No such file or directory
+(base) Subhams-Air:web devlopment udemy subhamkumar$ cd Desktop
+bash: cd: Desktop: No such file or directory
+(base) Subhams-Air:web devlopment udemy subhamkumar$ cd 
+(base) Subhams-Air:~ subhamkumar$ cd Desktop
+(base) Subhams-Air:Desktop subhamkumar$ cd Story
+(base) Subhams-Air:Story subhamkumar$ code. chapter1.txt
+bash: code.: command not found
+(base) Subhams-Air:Story subhamkumar$ code chapter1.txt
+(base) Subhams-Air:Story subhamkumar$ cd
+(base) Subhams-Air:~ subhamkumar$ cd desktop
+(base) Subhams-Air:desktop subhamkumar$ cd Story
+(base) Subhams-Air:Story subhamkumar$ open -a "Visual Studio Code" chapter1.txt
+(base) Subhams-Air:Story subhamkumar$ 
