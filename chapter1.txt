@@ -17,3 +17,8 @@ bash: code.: command not found
 (base) Subhams-Air:desktop subhamkumar$ cd Story
 (base) Subhams-Air:Story subhamkumar$ open -a "Visual Studio Code" chapter1.txt
 (base) Subhams-Air:Story subhamkumar$ 
+xwtcejvbnkml,;kb
+
+usvvdwefbjnkgrlmh,t;.'yj/
+
+qsdwiuefrgihtyjl;u'iu
